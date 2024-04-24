@@ -136,10 +136,11 @@ You can visit my blog in [jpralves.net](https://jpralves.net).
 
 ### My Stats
 <div align="center">
-  
-[![jpralves's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jpralves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jpralves/)
-![jpralves's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpralves&locale=en&hide_title=false&layout=donut&theme=dark)
 
+  <a href="https:///github.com/jpralves/">
+    <img alt="jpralves's GitHub stats-Dark" src="https://github-readme-stats.vercel.app/api?username=jpralves&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
+  </a>
+  <img alt ="jpralves's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpralves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" />
 </div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/jpralves/count.svg?" />
