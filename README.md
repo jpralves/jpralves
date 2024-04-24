@@ -1,4 +1,4 @@
-## Hello, I'm João from Portugal, father and open-source evangelist
+## Hello, I'm João from Portugal, open-source evangelist
 
 <div align="center">
   <a href="https://linkedin.com/in/jpralves" target="_blank">
@@ -25,9 +25,14 @@ I love using Linux for everyday tasks and exploring all the possiblities of usin
 - 🌱 I’m currently improving my knowledge in Kubernetes
 - ⚡ Fun fact: My first computer was a ZX Spectrum
 
+## Blog
+
+You can visit my blog in [jpralves.net](https://jpralves.net).
+
 ### 🛠 Language and tools
 
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -129,13 +134,24 @@ I love using Linux for everyday tasks and exploring all the possiblities of usin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-### My Stats :
-
+### My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpralves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpralves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+  
+[![jpralves's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jpralves&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jpralves/)
+![jpralves's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpralves&locale=en&hide_title=false&layout=donut&theme=dark)
 
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/jpralves/count.svg?" />
+</div>
+
+### Support me
+
+<div align="center">
+  <a href="https://paypal.me/jpralves" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center" />
+  </a>
+  <a href="https://www.buymeacoffee.com/jpralves" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+  </a>
 </div>
