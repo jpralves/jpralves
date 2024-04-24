@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/jpralves" target="_blank"><img src="images/linkedin.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href="https://twitter.com/jpralves" target="_blank"><img src="images/twitter.svg" width="52" height="40" alt="twitter logo" /></a>
-  <a href="https://stackoverflow.com/users/jpralves" target="_blank"><img src="images/stackoverflow.svg" width="52" height="40" alt="stackoverflow logo" /></a>
+  <a href="https://stackoverflow.com/users/5301183/jo%c3%a3o-alves" target="_blank"><img src="images/stackoverflow.svg" width="52" height="40" alt="stackoverflow logo" /></a>
 </div>
 
 ### Glad to see you here!
